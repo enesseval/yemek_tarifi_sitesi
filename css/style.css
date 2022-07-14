@@ -1,0 +1,54 @@
+
+header {
+    margin-top: 15px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+section {
+    max-width: 1200px;
+    margin: 2rem auto;
+}
+
+.head{
+    margin: 0;
+    display: flex;
+}
+
+.head img{
+    margin-right: 2rem  ;
+}
+
+section .ilk {
+    text-align: center;
+    list-style: none;
+}
+
+section .ilk li {
+    display: inline;
+    margin-right: 5rem;
+}
+
+section .alt-liste li {
+    margin-right: 6rem;
+}
+
+.malzemeler {
+    width: 700px;
+    margin: 5rem auto;
+}
+
+div h1{
+    font-size: 35px;
+    position: absolute;
+    right: 500px;
+}
+
+.ici-icin {
+    list-style: none;
+    color: red;
+    
+}
